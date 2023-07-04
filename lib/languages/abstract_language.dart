@@ -49,4 +49,11 @@ abstract class Languages {
   String get cancel;
   String get phone;
   String get welcome_flutter_template;
+  String get language_selection;
+  String get home_page;
+  String get change_theme;
+  String get dark_mode;
+  String get light_mode;
+  String get drawer_header;
+  String get selectAColor;
 }

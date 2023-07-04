@@ -129,4 +129,25 @@ class LanguageEn extends Languages {
 
   @override
   String get welcome_flutter_template => 'Welcome Flutter Template';
+
+  @override
+  String get language_selection => 'Language Selection';
+
+  @override
+  String get home_page => 'Home Page';
+
+  @override
+  String get change_theme => 'Change Theme';
+
+  @override
+  String get dark_mode => 'Dark Mode';
+
+  @override
+  String get light_mode => 'Light Mode';
+
+  @override
+  String get drawer_header => 'Drawer Header';
+
+  @override
+  String get selectAColor => 'Select A Color';
 }

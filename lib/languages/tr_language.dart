@@ -129,4 +129,25 @@ class LanguageTr extends Languages {
 
   @override
   String get welcome_flutter_template => 'Flutter Template\'a hoşgeldiniz';
+
+  @override
+  String get language_selection => 'Dil seçimi';
+
+  @override
+  String get home_page => 'Ana sayfa';
+
+  @override
+  String get change_theme => 'Tema değiştir';
+
+  @override
+  String get dark_mode => 'Karanlık mod';
+
+  @override
+  String get light_mode => 'Aydınlık mod';
+
+  @override
+  String get drawer_header => 'Flutter Template';
+
+  @override
+  String get selectAColor => 'Bir renk seçiniz';
 }
